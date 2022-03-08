@@ -1,3 +1,3 @@
 # Machine_Learning
 
-Learning git
+Learning git Commands
